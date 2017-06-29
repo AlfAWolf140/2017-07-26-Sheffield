@@ -1,6 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
+
+title: "Data Carpentry at Sheffield University"
 workshop_repo   : "https://github.com/AlfAWolf140/2017-07-26-Sheffield/"
 workshop_site   : "http://AlfAWolf140.github.io/2017-07-26-Sheffield/"
 
